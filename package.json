@@ -5,11 +5,11 @@
   "author": "monkey",
   "private": true,
   "scripts": {
-    "start": "cross-env http_env=http://192.168.52.9:8080 webpack-dev-server --inline --progress --config build/webpack.config.js",
-    "dev": "cross-env http_env=http://admin.yosar.dev webpack --config build/webpack.config.js",
-    "test": "cross-env http_env=http://admin.yosar.test webpack  --config build/webpack.config.js",
-    "production": "cross-env http_env=http://admin.yosar.com webpack --config build/webpack.config.js",
-    "build": "cross-env http_env=http://admin.yosar.com webpack --config build/webpack.config.js"
+    "start": "cross-env http_env=http://xxx.com.cn webpack-dev-server --inline --progress --config build/webpack.config.js",
+    "dev": "cross-env http_env=http://xxx.com.cn webpack --config build/webpack.config.js",
+    "test": "cross-env http_env=http://xxx.com.cn webpack  --config build/webpack.config.js",
+    "production": "cross-env http_env=http://xxx.com.cn webpack --config build/webpack.config.js",
+    "build": "cross-env http_env=http://xxx.com.cn webpack --config build/webpack.config.js"
   },
   "dependencies": {
     "echarts": "^4.2.1",
