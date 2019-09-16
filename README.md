@@ -1,6 +1,6 @@
-# middle-backend
+# vue-admin
 
-> 中后台系统
+> 基于vue开发的后台管理系统
 
 ### 目录结构 
 

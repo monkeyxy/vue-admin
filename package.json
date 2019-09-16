@@ -1,7 +1,7 @@
 {
-  "name": "middle-backend",
+  "name": "vue-admin",
   "version": "1.0.0",
-  "description": "中后台系统",
+  "description": "后台系统",
   "author": "monkey",
   "private": true,
   "scripts": {
